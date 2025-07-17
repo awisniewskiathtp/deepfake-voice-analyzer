@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: voice-analyzer 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-17 07:00+0000\n"
+"PO-Revision-Date: 2025-07-17 08:00+0000\n"
+"Last-Translator: Andrzej Wiśniewski<a.wisniewski@yourwebdesign.be>\n"
+"Language-Team: Polish\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "TECHNICAL REPORT - AUDIO ANALYSIS"
+msgstr "TECHNICAL REPORT - AUDIO ANALYSIS"
+
+msgid "Analysis date"
+msgstr "Analysis date"
+
+msgid "Input file"
+msgstr "Input file"
+
+msgid "Case ID"
+msgstr "Case ID"
+
+msgid "Analyst"
+msgstr "Analyst"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Heuristic Evaluation:"
+msgstr "Heuristic Evaluation:"
+
+msgid "No suspicious features found"
+msgstr "No suspicious features found"
+
+msgid "Very low zero-crossing (possible synthesis)"
+msgstr "Very low zero-crossing (possible synthesis)"
+
+msgid "Unnatural spectral shape (low MFCC_1)"
+msgstr "Unnatural spectral shape (low MFCC_1)"
+
+msgid "Acoustic Features (averaged):"
+msgstr "Acoustic Features (averaged):"
+
+msgid "MFCC Visualization"
+msgstr "MFCC Visualization"
+
+msgid "Disclaimer: This report is for informational use only and is not a forensic expert opinion."
+msgstr "Disclaimer: This report is for informational use only and is not a forensic expert opinion."
+

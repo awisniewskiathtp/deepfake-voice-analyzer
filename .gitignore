@@ -1,0 +1,24 @@
+# Pliki Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+
+# Pliki raportów
+*.pdf
+
+# Pliki tłumaczeń binarne
+*.mo
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+
+# Środowisko wirtualne
+venv/
+.env
+

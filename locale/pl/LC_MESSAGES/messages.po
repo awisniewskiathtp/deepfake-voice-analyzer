@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: voice-analyzer 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-07-17 07:00+0000\n"
+"PO-Revision-Date: 2025-07-17 08:00+0000\n"
+"Last-Translator: Andrzej Wiśniewski<a.wisniewski@yourwebdesign.be>\n"
+"Language-Team: Polish\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "TECHNICAL REPORT - AUDIO ANALYSIS"
+msgstr "RAPORT TECHNICZNY – ANALIZA AUDIO"
+
+msgid "Analysis date"
+msgstr "Data analizy"
+
+msgid "Input file"
+msgstr "Plik źródłowy"
+
+msgid "Case ID"
+msgstr "Identyfikator sprawy"
+
+msgid "Analyst"
+msgstr "Analityk"
+
+msgid "Email"
+msgstr "E-mail"
+
+msgid "Heuristic Evaluation:"
+msgstr "Ocena heurystyczna:"
+
+msgid "No suspicious features found"
+msgstr "Brak wyraźnych podejrzanych cech"
+
+msgid "Very low zero-crossing (possible synthesis)"
+msgstr "Bardzo niski zero-crossing (możliwa synteza)"
+
+msgid "Unnatural spectral shape (low MFCC_1)"
+msgstr "Nienaturalna barwa widma (niska wartość MFCC_1)"
+
+msgid "Acoustic Features (averaged):"
+msgstr "Cechy akustyczne (wartości średnie):"
+
+msgid "MFCC Visualization"
+msgstr "Wizualizacja MFCC"
+
+msgid "Disclaimer: This report is for informational use only and is not a forensic expert opinion."
+msgstr "Uwaga: raport ma charakter pomocniczy i nie stanowi ekspertyzy fonoskopijnej."
+
